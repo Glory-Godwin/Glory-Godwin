@@ -1,6 +1,7 @@
-Hi,I'm Glory Godwin
-I'm passionate about the tech industry
-Currently diving deep into data science and analysis
+Hi,I'm Glory Godwin,
+
+ I'm passionate about the tech industry, 
+ Currently diving deep into data science and analysis.
 I'm excited to learn,grow,and collaborate on projects that challenge me
 and expand my skills
 
